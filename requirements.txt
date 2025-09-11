@@ -1,0 +1,7 @@
+opencv-python
+pytesseract
+Pillow
+huggingface_hub
+numpy
+torch
+transformers
